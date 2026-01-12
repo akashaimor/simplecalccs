@@ -11,7 +11,7 @@ Features
     Implements methods for arithmetic operations
     Uses classes to organize code
 
-#Main Classes & Methods
+# Main Classes & Methods
 
     Calculator class:
         Add()
@@ -21,7 +21,7 @@ Features
     Program class:
         Main() method handles user input and program flow
 
-#Sample Output
+# Sample Output
 
 --- Simple Calculator ---
 
@@ -31,14 +31,14 @@ Features
     Divide
     Exit
 
-#What I Learned
+# What I Learned
 
     How to use loops for continuous user interaction
     How to create and call methods
     How to organize logic using classes
     How to handle basic user input and errors
 
-#Technologies Used
+# Technologies Used
 
     C#
     .NET Console Application
